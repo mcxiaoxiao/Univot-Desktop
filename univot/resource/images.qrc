@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Image1.png</file>
+        <file>LOGO.png</file>
+        <file>NFT.png</file>
+        <file>LINES.png</file>
+    </qresource>
+</RCC>

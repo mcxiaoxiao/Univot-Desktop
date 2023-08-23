@@ -1,0 +1,41 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resource/Image1.png</file>
+        <file>resource/LINES.png</file>
+        <file>resource/LOGO.png</file>
+        <file>resource/NFT.png</file>
+        <file>resource/BUTTON.png</file>
+        <file>resource/BUTTON1.png</file>
+        <file>resource/BUTTON2.png</file>
+        <file>resource/Afterclap-1.png</file>
+        <file>resource/Afterclap-2.png</file>
+        <file>resource/Afterclap-3.png</file>
+        <file>resource/Afterclap-4.png</file>
+        <file>resource/Afterclap-5.png</file>
+        <file>resource/Afterclap-6.png</file>
+        <file>resource/Afterclap-7.png</file>
+        <file>resource/Afterclap-8.png</file>
+        <file>resource/Afterclap-9.png</file>
+        <file>resource/Afterclap-10.png</file>
+        <file>resource/ICON.ico</file>
+        <file>resource/ICON.png</file>
+        <file>resource/12345.jpg</file>
+        <file>resource/71017.jpg</file>
+        <file>resource/02171004.jpg</file>
+        <file>resource/02171031.jpg</file>
+        <file>resource/02171039.jpg</file>
+        <file>resource/0202170956.jpg</file>
+        <file>resource/202171011.jpg</file>
+        <file>resource/202171056.jpg</file>
+        <file>resource/230202171024.jpg</file>
+        <file>resource/0230202171051.jpg</file>
+        <file>resource/230202171105.jpg</file>
+        <file>resource/0.jpg</file>
+        <file>resource/1.jpg</file>
+        <file>resource/3.jpg</file>
+        <file>resource/4.jpg</file>
+        <file>resource/5.jpg</file>
+        <file>resource/2.png</file>
+        <file>resource/2.jpg</file>
+    </qresource>
+</RCC>
