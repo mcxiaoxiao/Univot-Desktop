@@ -1,5 +1,8 @@
 # Univot-Desktop
 univot在线投票社区(桌面版)Qt工程
+![GitHub Version](https://img.shields.io/github/release/mcxiaoxiao/Univot-Desktop.svg)
+![Repo Size](https://img.shields.io/github/repo-size/mcxiaoxiao/Univot-Desktop.svg)
+
 # **_完整课设报告请移步仓库内的doc文档_**
 
 # **_B站视频介绍：_**[**_【使用Qt 实时投票可视化系统的设计与实现（大一程序课设）】_**](https://www.bilibili.com/video/BV1Qg4y1p7Ww/?share_source=copy_web&vd_source=a46b35cf3ff7a729ca4ee2ece2826c0b)
